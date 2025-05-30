@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ### 🔹 4. Add the `similarity.pkl` file
 
 This file is **not included in the repo due to size limits.**
-➡️ [Download similarity.pkl from GitHub Releases](https://github.com/yourusername/movie_recommender_system/releases)
+➡️ [Download similarity.pkl from GitHub Releases](https://github.com/bhutamanav11/movie_recommender_system/releases)
 Place it in the **main project directory**.
 
 ### 🔹 5. Run the App
