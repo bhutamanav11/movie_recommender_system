@@ -113,5 +113,3 @@ Feel free to fork the repo and submit improvements.
 This project is open-source under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you want me to fill in your actual GitHub username or modify it for your team project!
